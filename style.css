@@ -1,0 +1,29 @@
+* {
+  margin: auto;
+
+  box-sizing: border-box;
+}
+.container {
+  margin-top:30px;
+  width: 100%;
+  position:relative;
+  display: flex;
+}
+.left-container{
+  float: left;
+  width: 50%;
+  margin: auto;
+  padding:20px;
+
+}
+
+.right-container {
+  float: left;
+  width: 50%;
+  margin: auto;
+padding:20px;
+}
+
+.container h2 {
+  text-align: center;
+}
